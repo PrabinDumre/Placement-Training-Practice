@@ -46,7 +46,8 @@ Calculate the number of times you need to switch from a green pen (for odd numbe
 # 6. Inventory Character Frequency Analysis
 Analyze the frequency of characters in a string that represents an inventory list of fruits.
 
-Run the solutions:
+
+# Run the solutions:
 Use a Python interpreter (e.g., python3).
 
 # Contributing
